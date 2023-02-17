@@ -1,4 +1,4 @@
-## Kazama, learn computer development
+## Learn computer development
 <div align="center">
   <a href="https://github.com/KazamaOnGithub">
   <a href="https://komarev.com/ghpvc/?username=KazamaOnGithub">
