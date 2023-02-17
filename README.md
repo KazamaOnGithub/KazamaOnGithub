@@ -14,7 +14,7 @@ print(f'Follow {Kazama} On Github')
 
 ```python
    Python  :  3.11.2
-Languages  :  Python, Batch, HTML/CSS
+Languages  :  Python, HTML/CSS
   Discord  :  1016083202789605439
    Server  :  966557449266036766
 ```
