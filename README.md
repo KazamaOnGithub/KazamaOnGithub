@@ -21,8 +21,10 @@ Languages  :  Python, HTML/CSS
   ##
  
 <div> 
-  <a href="lien_soon" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/M382MpNAtm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="lien_soon" target="_blank"><img src="https://img.shields.io/badge/Youtube-channel-red" target="_blank"></a>
+ <a href="https://discord.gg/M382MpNAtm" target="_blank"><img src="https://img.shields.io/badge/Discord-server-informational" target="_blank"></a>
+ <a href="https://t.me/kazamaXfantanyl" target="_blank"><img src="https://img.shields.io/badge/Telegram-click%20us-blue" target="_blank"></a>
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
