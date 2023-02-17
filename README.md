@@ -8,7 +8,18 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1004727452934864928/1044593573582082078/Banner_python.png">
 </div>
-  
+
+```python
+print(f'Follow {Kazama} On Github')
+```
+
+```python
+   Python  :  python 3.11.2
+Languages  :  Python, Batch, HTML/CSS
+  Discord  :  1016083202789605439
+   Server  :  966557449266036766
+```
+
   ##
  
 <div> 
