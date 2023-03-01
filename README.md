@@ -29,3 +29,9 @@ Languages  :  Python, HTML/CSS
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+-----
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1079338601319501874/1079800808436154459/Nouveau_projet.png", width="350", height="350">
+</p>
