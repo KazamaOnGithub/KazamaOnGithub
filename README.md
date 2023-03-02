@@ -1,4 +1,4 @@
-## Learn computer development
+![first phrase](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D63B&background=59FFE700&width=435&lines=%3E+Learn+computer+development...+%3C)
 <div align="center">
   <a href="https://github.com/KazamaOnGithub">
   <a href="https://komarev.com/ghpvc/?username=KazamaOnGithub">
