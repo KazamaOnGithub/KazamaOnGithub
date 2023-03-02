@@ -7,10 +7,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1004727452934864928/1076109872426401952/25231.png">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=15&pause=1000&color=F7A733&background=59FFE700&repeat=false&height=20&lines=User%3A+KazamaOnGithub+..........+Pass%3A+Azerty123!)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=15&pause=1000&color=6FF71E&background=59FFE700&vCenter=true&repeat=false&height=20&lines=Connecting+successfully!)
-
 ```python
 print(f'Follow {Kazama} On Github')
 ```
